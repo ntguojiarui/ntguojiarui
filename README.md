@@ -1,16 +1,13 @@
-## Hi there 👋
+# Jiarui Guo
 
-<!--
-**ntguojiarui/ntguojiarui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Ph.D. student in Computer Science at Peking University,
+currently a Research Intern at Alibaba Group.
 
-Here are some ideas to get you started:
+My research focuses on high-performance data structures and algorithms,
+with applications in LLM inference, network telemetry, and database systems.
+I am interested in connecting algorithmic ideas with practical system performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Homepage](https://ntguojiarui.github.io/) ·
+[Publications](https://ntguojiarui.github.io/publications/) ·
+[Google Scholar](https://scholar.google.com/citations?user=bTDP5zIAAAAJ) ·
+[Email](mailto:ntguojiarui@pku.edu.cn)
